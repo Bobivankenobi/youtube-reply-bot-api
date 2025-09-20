@@ -62,6 +62,7 @@ Analyzes up to 50 YouTube comments and returns scores for reply opportunities.
 - `c`: Comment text
 - `l`: Number of likes (string)
 - `r`: Number of replies (string)
+- `isTopComments`: Optional boolean flag for top comments (gets score 100 automatically)
 
 ### GET /health
 
